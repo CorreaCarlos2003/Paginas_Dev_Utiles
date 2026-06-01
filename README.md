@@ -23,7 +23,7 @@ Recopilacion de varias paginas web relacionadas al desarrollo web, cibersegurida
 8. Cursos con **certificados** de FreeCodeCamp / https://www.freecodecamp.org/learn
 9. Cursos de Cisco / https://www.netacad.com/es/catalogs/learn?category=course 
 #### GitHub recomendados
-1. (https://github.com/DevCaress/guia-entrevistas-de-programacion)
+1. https://github.com/DevCaress/guia-entrevistas-de-programacion
 ### Página para aprender Git
 1. https://learngitbranching.js.org/?locale=es_ES
 #### Recursos para desarrolladores UX/UI
