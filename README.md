@@ -24,7 +24,7 @@ Recopilacion de varias paginas web relacionadas al desarrollo web, cibersegurida
 9. Cursos de Cisco / https://www.netacad.com/es/catalogs/learn?category=course 
 #### GitHub recomendados
 1. https://github.com/DevCaress/guia-entrevistas-de-programacion
-### Página para aprender Git
+#### Página para aprender Git
 1. https://learngitbranching.js.org/?locale=es_ES
 #### Recursos para desarrolladores UX/UI
 1. Página web para tomar inspiración de Logins, Sign Ups, Popups, etc / https://calltoinspiration.com/
