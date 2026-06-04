@@ -29,7 +29,6 @@ Recopilacion de varias paginas web relacionadas al desarrollo web, cibersegurida
 9. Cursos de Cisco / https://www.netacad.com/es/catalogs/learn?category=course
 10. Cursos de Microsoft y Visual Studio Code / https://vscodeedu.com/
 11. Cursos de Google para aprender a programar / https://web.dev/learn
-12. 
 #### GitHub recomendados
 1. https://github.com/DevCaress/guia-entrevistas-de-programacion
 2. Proyectos de Python / https://github.com/larymak/Python-project-Scripts
