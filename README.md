@@ -58,6 +58,7 @@ Recopilacion de varias paginas web relacionadas al desarrollo web, cibersegurida
 1. https://flexboxlabs.netlify.app/
 #### Página web para crear archivos .md
 1. https://onlinemarkdown.com/es
+2. https://readme.so/editor
 #### Página web para aprender lógica de programación con ejemplos
 1. https://coding-challenges.dev/
 ### Página web que recopila varios repositorios de GitHub
